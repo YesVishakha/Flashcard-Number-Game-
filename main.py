@@ -1,4 +1,3 @@
-import player
 import pickle
 try:
     userfile=open('username.dat','rb')
